@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- [osTicket files](osTicket-Installation-Files.zip)
+- [osTicket installation files]((https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download))
 
 <h2>Installation Steps</h2>
 
