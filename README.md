@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1136" height="585" alt="image" src="https://github.com/user-attachments/assets/0df6675f-7312-4662-bbdb-d7091375e16f" />
 </p>
 <p>
 Download zip folder and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files” - We will use the files in this folder to install osTicket and some of the dependencie
