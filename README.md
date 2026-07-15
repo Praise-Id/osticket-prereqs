@@ -34,8 +34,9 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<h6>The next step is enabling IIS(Internet Information Services) on Windows</h6>
 <p>
-The next step is enabling IIS(Internet Information Services) on Windows
+
 </p>
 <br />
 
