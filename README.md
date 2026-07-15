@@ -32,7 +32,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="972" height="616" alt="image" src="https://github.com/user-attachments/assets/b6fc8c32-2bfc-41e5-ad46-947d93585344" />
 </p>
 <h4>The next step is enabling IIS(Internet Information Services) & CGI(Common Gateway Interface) on Windows</h4>
 
