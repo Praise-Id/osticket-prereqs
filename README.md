@@ -66,14 +66,13 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h4>The next step is to install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the “osTicket-Installation-Files” folder</h4>
+<h4>The next step is to install the Rewrite Module (rewrite_amd64_en-US.msi) from the “osTicket-Installation-Files” folder</h4>
 
 - Open the “osTicket-Installation-Files” folder.
-- Look inside for a file called "PHPManagerForIIS_V1.5.0.msi".
+- Look inside for a file called "rewrite_amd64_en-US.msi".
 - Double-click the file to launch the installation wizard.
-- Click Next, agree to the license agreement, then click Next again.
-- When prompted for permission, click Yes.
-- The PHP Manager will install automatically. Once it's finished, close the wizard.
+- Accept the terms in the license agreement, click Install.
+- The Rewrite Module will install automatically. Once it's finished, close the wizard.
 
 <br />
 
