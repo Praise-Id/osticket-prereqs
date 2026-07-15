@@ -36,8 +36,8 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 </p>
 <h4>The next step is enabling IIS(Internet Information Services) & CGI(Common Gateway Interface) on Windows</h4>
 
-- Open Control Panel. You can find this by clicking the Start menu and typing "Control Panel," then clicking on it.
-- Click "Programs." This is one of the main categories you'll see.
+- Open Control Panel. You can find this by clicking the Start menu, typing "Control Panel," and then clicking it.
+- Click "Uninstall a program." You'll find this under the "Programs" section of Control Panel.
 - Click "Turn Windows features on or off." It's usually on the left side of the page, near the top.
 - A window will pop up with a big list of checkboxes.
 - Find "Internet Information Services" in the list and click its checkbox. This turns on the main feature we need.
