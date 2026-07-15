@@ -34,10 +34,19 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h4>The next step is enabling IIS(Internet Information Services) on Windows</h4>
-<p>
+<h4>The next step is enabling IIS(Internet Information Services) & CGI(Common Gateway Interface) on Windows</h4>
 
-</p>
+- Open Control Panel. You can find this by clicking the Start menu and typing "Control Panel," then clicking on it.
+- Click "Programs." This is one of the main categories you'll see.
+- Click "Turn Windows features on or off." It's usually on the left side of the page, near the top.
+- A window will pop up with a big list of checkboxes.
+- Find "Internet Information Services" in the list and click its checkbox. This turns on the main feature we need.
+- A little arrow or plus sign will appear next to it — this means there are more options hidden inside. Click to expand it.
+- Inside that, find "World Wide Web Services" and check its box too. This will open up even more sub-options.
+- Inside that list, find "Application Development Features" and check its box. Yep, more sub-options will appear — that's normal.
+- Somewhere in that final list, you'll see "CGI." Check that box. This is the specific piece we actually need.
+- Click "OK" at the bottom of the window. Windows will now install everything you checked. This might take a minute or two — just let it finish.
+
 <br />
 
 <p>
