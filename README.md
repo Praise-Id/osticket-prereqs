@@ -26,9 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img width="1002" height="525" alt="image" src="https://github.com/user-attachments/assets/cc9127fa-d545-488c-b460-5b422a356c34" />
 </p>
-<p>
+<h4>
 Download the zip folder and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files” - We will use the files in this folder to install osTicket and some of the dependencies
-</p>
+</h4>
 <br />
 
 <p>
@@ -66,9 +66,15 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<h4>The next step is to install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the “osTicket-Installation-Files” folder</h4>
+
+- Open the “osTicket-Installation-Files” folder.
+- Look inside for a file called "PHPManagerForIIS_V1.5.0.msi".
+- Double-click the file to launch the installation wizard.
+- Click Next, agree to the license agreement, then click Next again.
+- When prompted for permission, click Yes.
+- The PHP Manager will install automatically. Once it's finished, close the wizard.
+
 <br />
 
 <p>
