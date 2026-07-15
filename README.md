@@ -34,7 +34,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img width="972" height="616" alt="image" src="https://github.com/user-attachments/assets/b6fc8c32-2bfc-41e5-ad46-947d93585344" />
 </p>
-<h4>The next step is enabling IIS(Internet Information Services) & CGI(Common Gateway Interface) on Windows</h4>
+<h4>Next, enable IIS(Internet Information Services) & CGI(Common Gateway Interface) on Windows</h4>
 
 - Open Control Panel. You can find this by clicking the Start menu, typing "Control Panel," and then clicking it.
 - Click "Uninstall a program." You'll find this under the "Programs" section of Control Panel.
@@ -52,7 +52,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img width="1896" height="549" alt="image" src="https://github.com/user-attachments/assets/1f9f909a-01eb-47c5-97ec-05b8a4960430" />
 </p>
-<h4>The next step is to install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the “osTicket-Installation-Files” folder</h4>
+<h4>Next, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the “osTicket-Installation-Files” folder</h4>
 
 - Open the “osTicket-Installation-Files” folder.
 - Look inside for a file called "PHPManagerForIIS_V1.5.0.msi".
@@ -66,7 +66,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h4>The next step is to install the Rewrite Module (rewrite_amd64_en-US.msi) from the “osTicket-Installation-Files” folder</h4>
+<h4>Next, install the Rewrite Module (rewrite_amd64_en-US.msi) from the “osTicket-Installation-Files” folder</h4>
 
 - Open the “osTicket-Installation-Files” folder.
 - Look inside for a file called "rewrite_amd64_en-US.msi".
@@ -79,9 +79,12 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<h4>Next, create a new directory on your C: drive named C:\PHP.</h4>
+
+- Open File Explorer
+- Navigate to the C: drive (Windows (C:))
+- Create a new folder named PHP.
+
 <br />
 
 <p>
