@@ -90,9 +90,15 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<h4>Next, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from the “osTicket-Installation-Files” folder into the “C:\PHP” folder.</h4>
+
+- Open the “osTicket-Installation-Files” folder.
+- Find the file named "php-7.3.8-nts-Win32-VC15-x86.zip".
+- Right-click the file and select "Extract All" from the menu that pops up.
+- A window will open titled "Select a Destination and Extract Files."
+- Click Browse, then find and select the PHP folder you created earlier — this tells your computer where to put the extracted files.
+- Click Select, then click Extract.
+
 <br />
 
 <p>
