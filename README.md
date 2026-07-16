@@ -88,7 +88,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="722" height="586" alt="image" src="https://github.com/user-attachments/assets/d1abd8b0-e691-48f9-a902-9064a5b22380" />
 </p>
 <h4>Next, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from the “osTicket-Installation-Files” folder into the “C:\PHP” folder.</h4>
 
