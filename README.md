@@ -131,7 +131,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1641" height="796" alt="image" src="https://github.com/user-attachments/assets/998ca6fa-61d8-46e1-aa2f-d02f39e63189" />
 </p>
 <h4>Next, Configure MySQL</h4>
 
