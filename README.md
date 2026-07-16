@@ -230,11 +230,10 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <br />
 
-<h4>Place Holder</h4>
+<h4>Note: we have not yet enabled some of the recomended extensions.</h4>
 
-- Placeholder
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="567" height="434" alt="image" src="https://github.com/user-attachments/assets/4f6d7f2d-1da2-46b5-bd7b-12aa27a8dc7d" />
 </p>
 
 
