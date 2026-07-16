@@ -204,7 +204,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1424" height="742" alt="image" src="https://github.com/user-attachments/assets/ecbcd7b3-c2d5-41da-8fbf-59ae6abbd217" />
 </p>
 <h4>Next, load the osTicket site</h4>
 
