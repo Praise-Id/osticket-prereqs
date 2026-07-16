@@ -116,7 +116,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1679" height="795" alt="image" src="https://github.com/user-attachments/assets/dc78345f-0ee3-4dab-9ff0-aa3ccbe0ca2e" />
 </p>
 <h4>Next, install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the “osTicket-Installation-Files” folder</h4>
 
