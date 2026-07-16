@@ -327,20 +327,28 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <br />
 
-<h4>Next, PH</h4>
+<h4>Next,  complete osTicket setup in the browser</h4>
 
-- PH
+- Switch back to your web browser showing the osTicket setup page.
+- Scroll to the database configuration section.
+- Fill in the fields as follows: MySQL Hostname: localhost (if not already filled in), MySQL Database: osTicket, MySQL Username: your SQL username, MySQL Password: your SQL password.
+- Scroll down and click the "Install Now!" button.
+- Wait while the installer creates the necessary database tables — this may take a minute or two.
   
 <p>
-IMGPH
+<img width="306" height="235" alt="image" src="https://github.com/user-attachments/assets/35f2499f-2e14-4314-a0fe-420e65b6d70c" />
 </p>
 
 
 <br />
 
-<h4>Next, PH</h4>
+<h4>Next,  log into osTicket</h4>
 
-- PH
+- Congratulations — hopefully it installed with no errors!
+- Once setup is complete, you'll typically see a confirmation page with next steps.
+- Open a new browser tab and go to your helpdesk login page: http://localhost/osTicket/scp/login.php
+- Log in using the admin credentials you created during setup.
+- End users can access the support portal at: http://localhost/osTicket/
   
 <p>
 IMGPH
