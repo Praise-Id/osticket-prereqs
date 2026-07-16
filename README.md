@@ -64,7 +64,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1248" height="494" alt="image" src="https://github.com/user-attachments/assets/82cce92a-cc48-4d69-9200-2b4ec1f77b22" />
 </p>
 <h4>Next, install the Rewrite Module (rewrite_amd64_en-US.msi) from the “osTicket-Installation-Files” folder</h4>
 
