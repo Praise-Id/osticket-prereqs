@@ -104,15 +104,86 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<h4>Next, install "VC_redist.x86.exe" from the “osTicket-Installation-Files” folder</h4>
+
+- Open the “osTicket-Installation-Files” folder.
+- Look inside for a file called "VC_redist.x86.exe".
+- Double-click the file to launch the installation wizard.
+- Accept the terms in the license agreement, click Install.
+- When prompted for permission, click Yes.
+- "VC_redist.x86.exe" will install automatically. Once it's finished, close the wizard.
+
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<h4>Next, install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the “osTicket-Installation-Files” folder</h4>
+
+- Open the “osTicket-Installation-Files” folder.
+- Look inside for a file called "mysql-5.5.62-win32.msi".
+- Double-click the file to launch the installation wizard.
+- Click Next, agree to the license agreement, then click Next again.
+- When you get to the select setup page, select the Typical setup, then click Install.
+- When prompted for permission, click Yes.
+- MySQL will install automatically. Once it's finished, make sure the box for "Launch the MySQL Instance Configuration Wizard" is checked, then click Finish.
+
+<br />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<h4>Next, Configure MySQL</h4>
+
+- When the MySQL Instance Configuration Wizard opens, click Next.
+- Select Standard Configuration, then click Next.
+- Leave the next page as-is, then click Next.
+- On the next page, check Modify Security Settings, create a password (make sure it's one you won't forget), then click Next.
+- Click Execute, then click Finish.
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<h4>Place Holder</h4>
+
+- Placeholder
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<h4>Place Holder</h4>
+
+- Placeholder
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<h4>Place Holder</h4>
+
+- Placeholder
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<h4>Place Holder</h4>
+
+- Placeholder
+
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<h4>Place Holder</h4>
+
+- Placeholder
+
 <br />
