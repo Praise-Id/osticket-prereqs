@@ -144,7 +144,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img width="980" height="863" alt="image" src="https://github.com/user-attachments/assets/aa1b45af-11ee-4df2-8a19-ff07aa303ea3" />
+<img width="981" height="619" alt="image" src="https://github.com/user-attachments/assets/856e57b3-79a0-4991-bec0-017a7baa6fad" />
 </p>
 <h4>Next, open IIS as an Admin</h4>
 
