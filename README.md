@@ -177,11 +177,17 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1258" height="720" alt="image" src="https://github.com/user-attachments/assets/ed694e55-2c2c-4690-8060-94e8e4f00d86" />
 </p>
-<h4>Place Holder</h4>
+<h4>Next, Install osTicket from the “osTicket-Installation-Files” folder</h4>
 
-- Placeholder
+- Open the “osTicket-Installation-Files” folder.
+- Find the zipped folder named "osTicket-Installation-Files".
+- Unzip (extract) this folder.
+- Inside the unzipped folder, locate the "upload" folder and copy it.
+- Navigate to your C: drive, open "inetpub", then open "wwwroot".
+- Paste the "upload" folder into "wwwroot".
+- Rename the pasted "upload" folder to "osTicket".
 
 <br />
 
