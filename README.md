@@ -77,7 +77,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1013" height="660" alt="image" src="https://github.com/user-attachments/assets/dedbb501-1e76-4be6-804a-8091ece218bd" />
 </p>
 <h4>Next, create a new directory on your C: drive named C:\PHP.</h4>
 
