@@ -230,7 +230,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <br />
 
-<h4>Note: we have not yet enabled some of the recomended extensions.</h4>
+<h4>Note: we have not yet enabled some of the recommended extensions.</h4>
 
 <p>
 <img width="567" height="434" alt="image" src="https://github.com/user-attachments/assets/4f6d7f2d-1da2-46b5-bd7b-12aa27a8dc7d" />
@@ -239,11 +239,16 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <br />
 
-<h4>Place Holder</h4>
+<h4>Next, enable recommended PHP extensions</h4>
 
-- Placeholder
+- Go back to IIS Manager, and navigate to Sites -> Default Web Site -> osTicket.
+- Double-click PHP Manager.
+- Click "Enable or disable an extension."
+- Enable the following: "php_imap.dll", "php_intl.dll", "php_opcache.dll"
+- Refresh the osTicket site in your browser and observe the changes.
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="958" height="1005" alt="image" src="https://github.com/user-attachments/assets/eb268a77-f3f8-45fa-a1dd-feaf509ae989" />
 </p>
 
 
