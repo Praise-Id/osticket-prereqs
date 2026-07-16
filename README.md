@@ -369,3 +369,6 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 - Click OK to save, click OK again to close the Properties window.
 
 <br />
+
+
+<h6>Prerequisite files & steps gotten from Coarse Careers IT Course</h6>
