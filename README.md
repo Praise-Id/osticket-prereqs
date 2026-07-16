@@ -254,11 +254,14 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <br />
 
-<h4>Place Holder</h4>
+<h4>Rename the Config File</h4>
 
-- Placeholder
+- Navigate to your C: drive, open "inetpub", open "wwwroot", open "osTicket".
+- Open the folder named  "include".
+- Find the file named "ost-sampleconfig.php", and rename the file to "ost-config.php".
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="750" height="561" alt="image" src="https://github.com/user-attachments/assets/17f7e93b-6d1e-4780-b2ef-2ada4717bce1" />
 </p>
 
 
