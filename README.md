@@ -206,9 +206,12 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h4>Place Holder</h4>
+<h4>Next, load the osTicket site</h4>
 
-- Placeholder
+- Open IIS Manager (as Administrator).
+- In the Connections panel on the left, expand the drop-down for your server name.
+- Expand "Sites", then expand "Default Web Site"
+- Select osTicket, then click "Browse*:80" in the Actions panel on the right.
 
 <br />
 
