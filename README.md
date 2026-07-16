@@ -267,11 +267,20 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <br />
 
-<h4>Place Holder</h4>
+<h4>Assign Permissions to the Config File</h4>
 
-- Placeholder
+- While still in the C:\inetpub\wwwroot\osTicket\include folder, right-click the file "ost-config.php".
+- Select "Properties" from the menu. In the Properties window, click the "Security" tab.
+- Click "Advanced", in the Advanced Security Settings window, click "Disable inheritance".
+- A popup will ask how you'd like to proceed. Click "Remove all inherited permissions from this object".
+- In the new window, click the blue link that says "Select a principal".
+- In the "Enter the object name to select" field, type Everyone, click "Check Names", then click OK.
+- Under "Basic permissions," check the box for "Full control", click OK to close this window.
+- Click Apply, click OK to close the Advanced Security Settings window.
+- Click OK one more time to close the Properties window.
+  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1653" height="771" alt="image" src="https://github.com/user-attachments/assets/c35fe324-0a9c-4375-98a9-61f1bc6c5fd8" />
 </p>
 
 
