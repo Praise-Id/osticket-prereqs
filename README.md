@@ -155,21 +155,24 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<h4>Place Holder</h4>
+<h4>Register PHP from within IIS</h4>
 
-- Placeholder
+- In the middle panel, under the IIS section, double-click PHP Manager.
+- In the PHP Manager pane, click "Register new PHP version".
+- A dialogue box will open asking you to browse for the PHP executable.
+- Click Browse, navigate to your PHP folder (C:\PHP), and select the file "php-cgi.exe".
+- Click OK to confirm.
 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="932" height="364" alt="image" src="https://github.com/user-attachments/assets/3cddc6a0-0214-4680-959c-646d20fc938f" />
 </p>
-<h4>Place Holder</h4>
+<h4>Next, Reload ISS</h4>
 
-- Placeholder
+- In the Connections panel on the left, right-click your server name.
+- In the Actions panel on the right, click "Stop" to stop the server.
+- Wait a moment, then click "Start" in the same Actions panel to start the server back up.
 
 <br />
 
