@@ -144,11 +144,14 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="980" height="863" alt="image" src="https://github.com/user-attachments/assets/aa1b45af-11ee-4df2-8a19-ff07aa303ea3" />
 </p>
-<h4>Place Holder</h4>
+<h4>Next, open IIS as an Admin</h4>
 
-- Placeholder
+- Click the Start menu and type "IIS" or "Internet Information Services".
+- When Internet Information Services (IIS) Manager appears in the search results, right-click it.
+- Select "Run as administrator" from the menu.
+- If prompted for permission, click Yes to allow it to open.
 
 <br />
 
