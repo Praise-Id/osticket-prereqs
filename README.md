@@ -125,7 +125,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <h4>Next, install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the “osTicket-Installation-Files” folder</h4>
 
 - Open the “osTicket-Installation-Files” folder.
-- Look inside for a file called "mysql-5.5.62-win32.msi".
+- Look inside for a file named "mysql-5.5.62-win32.msi".
 - Double-click the file to launch the installation wizard.
 - Click Next, agree to the license agreement, then click Next again.
 - When you get to the select setup page, select the Typical setup, then click Install.
@@ -286,11 +286,75 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <br />
 
-<h4>Place Holder</h4>
+<h4>Next, continue setup in the browser</h4>
 
-- Placeholder
+- Switch back to your web browser showing the osTicket setup page.
+- Click the "Continue" button.
+- In the "Helpdesk Name" field, type a name for your Helpdesk.
+- In the "Default Email Address" field, type an email address that will receive support tickets from customers.
+- Fill in any other required fields on this page (such as Admin username, password, and email — follow the on-screen labels).
+- Do not fill in the database settings yet.
+  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1553" height="598" alt="image" src="https://github.com/user-attachments/assets/53f5559e-f281-4b0d-bcc0-a4d8cab56a5a" />
+</p>
+
+
+<br />
+
+<h4>Next, Install HeidiSQL (HeidiSQL_12.3.0.6589_Setup)</h4>
+
+- Open the “osTicket-Installation-Files” folder.
+- Look inside for a file named "HeidiSQL_12.3.0.6589_Setup".
+- Double-click the file to launch the installer, click Install.
+- If prompted for permission, click Yes.
+- Once installation completes, click Finish (this may automatically open HeidiSQL, or you can find it later via the Start menu).
+- In the HeidiSQL "Session manager" window, click "New".
+- A new session will appear in the list on the left, with its name field editable — you can leave the default name or rename it.
+- On the right side, make sure "Network type" is set to "MySQL (TCP/IP)".
+- In the "User" field, leave it as the default.
+- In the "Password" field, type the password you created when configuring MySQL.
+- Leave "Hostname / IP" as 127.0.0.1 and Port as 3306 (defaults), click "Open".
+- Once connected, you'll see a panel on the left listing your databases.
+- Right-click anywhere in that left panel and select "Create new," then "Database".
+- In the popup, type osTicket as the database name.
+- Leave other settings as default, then click OK.
+  
+<p>
+<img width="950" height="449" alt="image" src="https://github.com/user-attachments/assets/0c00283a-cb7e-432c-897d-865646ddab25" />
+</p>
+
+
+<br />
+
+<h4>Next, PH</h4>
+
+- PH
+  
+<p>
+IMGPH
+</p>
+
+
+<br />
+
+<h4>Next, PH</h4>
+
+- PH
+  
+<p>
+IMGPH
+</p>
+
+
+<br />
+
+<h4>Next, PH</h4>
+
+- PH
+  
+<p>
+IMGPH
 </p>
 
 
