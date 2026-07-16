@@ -177,7 +177,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 <p>
-<img width="1258" height="720" alt="image" src="https://github.com/user-attachments/assets/ed694e55-2c2c-4690-8060-94e8e4f00d86" />
+<img width="1261" height="691" alt="image" src="https://github.com/user-attachments/assets/65cf3fe5-ac52-4426-8360-6f9e080cc9a1" />
 </p>
 <h4>Next, Install osTicket from the “osTicket-Installation-Files” folder</h4>
 
