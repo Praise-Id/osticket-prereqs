@@ -205,6 +205,7 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 
 <p>
 <img width="1424" height="742" alt="image" src="https://github.com/user-attachments/assets/ecbcd7b3-c2d5-41da-8fbf-59ae6abbd217" />
+<img width="990" height="652" alt="image" src="https://github.com/user-attachments/assets/8835360e-de98-4c72-97f1-57530a29f8b1" />
 </p>
 <h4>Next, load the osTicket site</h4>
 
