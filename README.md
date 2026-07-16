@@ -351,19 +351,21 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 - End users can access the support portal at: http://localhost/osTicket/
   
 <p>
-IMGPH
+<img width="527" height="418" alt="image" src="https://github.com/user-attachments/assets/6179a4a0-6313-443f-bc69-314ff57d622f" />
 </p>
 
 
 <br />
 
-<h4>Next, PH</h4>
+<h4>Next, clean up (optional)</h4>
 
-- PH
-  
-<p>
-IMGPH
-</p>
-
+- Open File Explorer.
+- Navigate to This PC -> Local Disk (C:) -> inetpub -> wwwroot -> osTicket.
+- Find the folder named "setup", and delete it.
+- In the same folder, navigate to the "include" folder.
+- Right-click the file "ost-config.php" and select "Properties", click the "Security" tab.
+- Click "Edit...", select "Everyone" from the list of user names.
+- In the "Allow" column below, uncheck all boxes except "Read" and "Read & execute".
+- Click OK to save, click OK again to close the Properties window.
 
 <br />
