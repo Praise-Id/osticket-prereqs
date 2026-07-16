@@ -371,4 +371,4 @@ Download the zip folder and unzip it onto your desktop. The folder should be cal
 <br />
 
 
-<h6>Prerequisite files & steps gotten from<a href="https://coursecareers.com/course/it"> Coarse Careers IT Course</h6>
+<h6>Prerequisite files & steps gotten from<a href="https://coursecareers.com/course/it"> Course Careers IT Course</h6>
